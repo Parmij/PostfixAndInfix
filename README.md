@@ -35,6 +35,7 @@ Check answer the play if correct or wrong
 
 # note:
 -question and bouns1 solve together in same code.
+
 -bouns2: 
 ```
 level 1: o(n) ---> 100
