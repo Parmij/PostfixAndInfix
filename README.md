@@ -1,6 +1,13 @@
-# Sam Media Hacker Test in the line
+# Sam Media Hacker Test
+
+link test question:
+
 https://gist.github.com/homam/25dc665325a12aeb06aeed9dc66ada91
+
+## Solution:
+
 Steps:
+
 -- step 1
 ```
 Initialize the game for set operators (+ , - , *), range the numbers and set level
