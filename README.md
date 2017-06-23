@@ -1,6 +1,6 @@
 # Sam Media Hacker Test
 
-link test question:
+link for test question:
 
 https://gist.github.com/homam/25dc665325a12aeb06aeed9dc66ada91
 
@@ -17,18 +17,18 @@ Initialize the game for set operators (+ , - , *), range the numbers and set lev
 generate random postfix 
 ```
 
--- step2
+-- step3
 ```
 convert postfix to infix with add necessary parentheses
 ```
 
--- step3
+-- step4
 ```
 evaluate postfix expression to check with player input
 note: you can make evaluate in the same method generate random postfix (just you need small editing)
 ```
 
--- step4
+-- step5
 ```
 Check answer the play if correct or wrong
 ```
